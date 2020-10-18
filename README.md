@@ -1,6 +1,5 @@
 
-
-## Installation Procedure
+<h1> Installation Procedure</h1>
 
 ###Requirements
 Composer should be installed on your system in order to run the project. 

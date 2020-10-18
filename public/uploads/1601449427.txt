@@ -1,0 +1,7 @@
+Name,Email,Phone,DOB,university,cgpa,experience
+mun,asd,123,123,qwe,12,1
+waqar,wks,12345,"2020-12-02 00:00:00",qwer,3.33,Nill
+waqar,wks.uetian@gmail.com,3419219294,"1998-12-02 00:00:00",uet,3.33,nill
+waqar,wks.uetian@gmail.com,3419219294,"1998-12-02 00:00:00",uet,3.33,nill
+waqar,wks.uetian@gmail.com,3419219294,"1998-12-02 00:00:00",uet,3.33,nill
+waqar,wks.uetian@gmail.com,3419219294,"1998-12-02 00:00:00",uet,3.33,nill

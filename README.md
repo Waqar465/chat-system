@@ -1,22 +1,22 @@
 
 <h1> Installation Procedure</h1>
 
-###Requirements
+<h3>Requirements</h3>
 Composer should be installed on your system in order to run the project. 
 Composer can be downloaded from the official website https://getcomposer.org/download/
-####Composer
+<h4>Composer</h4>
 After downloading composer install it globally in your system to make project any where 
 in your system. 
-####Mamp for local server
+<h4>Mamp for local server</h4>
 Xammp/mampp should be installed in your system for localserver
 To download Mamp visit their site https://www.mamp.info/en/downloads/ and download 
 latest version of Mamp.
 
-####CODE EDITOR
+<h4>CODE EDITOR</h4>
 You can download any code editor for project. PHPStorm is preferable.
 You can download PHPStorm from https://www.jetbrains.com/phpstorm/download/
 
-##DB Configuration
+<h2>DB Configuration</h2>
 After completing all the requirement. Just place the project any where and 
 start your server by running Mamp and start services
 First of all make a database in localhost/phpmyadmin and name your 
@@ -25,7 +25,7 @@ database as "mattermost".
 DB_PORT, <br>
 DB_USERNAME, <br>
 DB_PASSWORD<br>
-####Run migration or make tables manually in  Local host
+<h4>Run migration or make tables manually in  Local host</h4>
 You can make tables in 2 ways for the project after configuring. First method 
 is this you can simply run the command in the editor terminal "php artisan migrate". 
 This command will migrate all the migrations present in the project. 
